@@ -4,7 +4,7 @@
 set -ex
 
 VERSION=$1
-IMAGE_NAME="networknt/com.networknt.ob.standingOrders-3.1.2"
+IMAGE_NAME="networknt/com.networknt.ob.standingorders-3.1.2"
 
 showHelp() {
     echo " "
